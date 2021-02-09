@@ -1,0 +1,20 @@
+Description:
+
+In this assignment, you will explore the classification process using text data and
+ANN classifier and complete the following tasks:
+1. Download a dataset according to the description in the next sub-section.
+2. Preprocess the text dataset.
+3. For Chinese text dataset, separate your dataset as training and testing datasets. For
+English text dataset, training and testing datasets are already available.
+4. Setup topology and hpyerparameters of your ANN classifier.
+5. Train the classifier using the training dataset, and test the classifier using the
+testing dataset.
+6. Record the classification accuracy for both training dataset and testing dataset.
+7. Find the best settings with highest classification accuracy by altering text
+preprocessing approach, topology and hyperparameters of ANN, or others. That is,
+you want to repeat Steps 2 to 7 and find your best model.
+8. Document your observations or findings using Markdown cell in Jupyter
+Notebook. For each cell (or cells), you are asked to explain the purpose of the
+codes, and report what you find (observe) after executing the code in Jupyter
+Notebook.
+9. Make a conclusion section to summarize your work.
