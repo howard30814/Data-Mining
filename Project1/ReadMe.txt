@@ -11,7 +11,7 @@ Data exploration refers to the preliminary investigation of data in order to bet
 In this assignment,the following tasks： 
 
 	1.Download a dataset from UC-Irvine Machine Learning Data Repository,and use adult.data for your experiment.
-  (https://archive.ics.uci.edu/ml/datasets/Adult).  
+  	  (https://archive.ics.uci.edu/ml/datasets/Adult).  
 	
 	2.Explore your dataset using Python:
 
